@@ -1,6 +1,6 @@
 # Clustering San Diego's Neighborhoods to Identify the Optimal Location for a New Mexican Restaurant
 
-[insert screenshot of final choropleth map]
+![](SD_map.png)
 
 ## Background + Description
 
